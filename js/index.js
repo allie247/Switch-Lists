@@ -1,10 +1,11 @@
-const listElements = document.getElementById('ul');
+const listElements = document.getElementById('list');
 
-
+//sweet array
 const Sweet = new Array(
     'BOOberry Pies', 'Rice Krispie Brains', 'Mummy Cake Pops', 'Spiderweb Brownies', 'Bat Cookies'
 );
 
+//savory array
 const Savory = new Array(
     'Eyeballs Appetizer', 'Breadstick Serpents', 'Pumpkin Baked Brie', 'Spider Pizzas', 'Ghost Veggies and Hummus'
 );
